@@ -56,10 +56,13 @@ git push -u origin main
 https://junyeongjyk.github.io/hanhwa/ 한화
 
 https://junyeongjyk.github.io/phomein/ 포메인 (스크롤오류)
+http://kym0106471.dothome.co.kr/phomein/index.html
 
 https://junyeongjyk.github.io/crewalamode/ 크루얼라모드 (동영상 용량커서 보류)
+http://kym0106471.dothome.co.kr/crew/index.html
 
 https://junyeongjyk.github.io/musign/ 뮤자인 (로고 오류)
+http://kym0106471.dothome.co.kr/musign/index.html
 
 https://junyeongjyk.github.io/daebang/ 대방
 
@@ -77,8 +80,6 @@ http://kym0106471.dothome.co.kr/UI.pdf
 http://kym0106471.dothome.co.kr/UI_test.pdf
 
 http://kym0106471.dothome.co.kr/developer.pdf
-
-
 
 
 
